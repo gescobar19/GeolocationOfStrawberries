@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['mature']
+
+roboflow:
+  workspace: test-ahgml
+  project: matlabstrawberrytest
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/test-ahgml/matlabstrawberrytest/dataset/1

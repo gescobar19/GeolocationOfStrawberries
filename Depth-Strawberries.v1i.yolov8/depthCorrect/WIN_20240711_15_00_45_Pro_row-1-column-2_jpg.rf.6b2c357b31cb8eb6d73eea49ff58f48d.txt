@@ -1,0 +1,8 @@
+Strawberry 1 detected at [1219, 812, 1278, 872] with average depth: 68 cm
+Strawberry 2 detected at [843, 608, 900, 659] with average depth: 71 cm
+Strawberry 3 detected at [901, 828, 958, 887] with average depth: 68 cm
+Strawberry 4 detected at [1005, 760, 1062, 825] with average depth: 73 cm
+Strawberry 5 detected at [1235, 501, 1288, 561] with average depth: 69 cm
+Strawberry 6 detected at [1003, 533, 1061, 589] with average depth: 70 cm
+Strawberry 7 detected at [1026, 673, 1079, 726] with average depth: 73 cm
+Strawberry 8 detected at [1168, 627, 1230, 683] with average depth: 72 cm

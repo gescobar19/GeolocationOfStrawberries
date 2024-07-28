@@ -1,0 +1,16 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['mature', 'immature', 'leaves']
+
+roboflow:
+  workspace: harvesting-robot-datasets
+  project: strawberry-detection-msf0m
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/harvesting-robot-datasets/strawberry-detection-msf0m/dataset/9
+train: ../train/images
+val: ../valid/images
+test: ../test/images

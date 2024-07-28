@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Depth-Anything-V2/metric_depth/dataset"
+    ]
+}
