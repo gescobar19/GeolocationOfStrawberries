@@ -1,0 +1,6 @@
+True Positives: 142
+False Positives: 70
+False Negatives: 53
+Precision: 0.67
+Recall: 0.73
+F1 Score: 0.70

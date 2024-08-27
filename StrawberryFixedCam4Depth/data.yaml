@@ -1,0 +1,18 @@
+path: "/lustre/fs1/home/crcvreu.student2/my_files/ultralytics-main(3)/StrawberryFixedCam4Depth/"
+train: 
+  - train/images
+val: 
+  - valid/images
+test: 
+  - test/images
+
+
+nc: 1
+names: ['strawberry']
+
+roboflow:
+  workspace: test-ahgml
+  project: strawberryfixedcam4
+  version: 2
+  license: CC BY 4.0
+  url: "https://universe.roboflow.com/test-ahgml/strawberryfixedcam4/dataset/2"
